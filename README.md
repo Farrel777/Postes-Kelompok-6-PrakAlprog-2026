@@ -120,16 +120,16 @@ Visualisasi:
 
 ---
 
-## Kontribusi Anggota Tim
+## Identitas dan Kontribusi Anggota Tim
 
-Proyek ini dikerjakan secara kolaboratif oleh seluruh anggota tim dengan pembagian tugas sebagai berikut:
+Proyek ini dikerjakan secara kolaboratif oleh seluruh anggota tim dengan pembagian peran dan tanggung jawab sebagai berikut:
 
-| Nama | Peran | Deskripsi Tanggung Jawab |
-|------|------|--------------------------|
-| **Aqil** | Programmer & Data Analyst | Mengembangkan program menggunakan Python, melakukan pengolahan dan analisis data, serta membuat visualisasi yang digunakan dalam dashboard analisis housing. |
-| **Kian** | Infographic Designer | Mendesain dan menyusun infografis berdasarkan hasil analisis data agar informasi dapat disampaikan secara efektif dan mudah dipahami. |
-| **Nadya** | LinkedIn Content Designer | Mengembangkan desain infografis yang dioptimalkan untuk publikasi di LinkedIn serta membantu penyajian hasil proyek kepada audiens profesional. |
-| **Ryva** | GitHub Repository Manager | Mengelola repositori GitHub proyek, mengorganisasi struktur file, mengunggah dokumentasi dan source code, serta memastikan seluruh komponen proyek terdokumentasi dengan baik. |
+| Nama | NIM | Peran | Deskripsi Tanggung Jawab |
+|------|-----|--------|--------------------------|
+| *Muhammad Farrel Aqil* | *21060125140179* | Programmer & Data Analyst | Bertanggung jawab dalam pengembangan program menggunakan Python, pengolahan dan analisis dataset, serta pembuatan visualisasi data yang digunakan dalam dashboard analisis housing. |
+| *Zalzalia Elqueenta Kiani* | *21060125120030* | Infographic Designer | Bertanggung jawab dalam perancangan dan pembuatan infografis yang menyajikan hasil analisis data secara informatif, menarik, dan mudah dipahami. |
+| *Nadya Fayola* | *21060125140199* | LinkedIn Content Designer | Bertanggung jawab dalam pengembangan desain infografis yang dioptimalkan untuk publikasi di LinkedIn serta membantu penyajian hasil proyek kepada audiens profesional. |
+| *Ryva Kurnia Sakti* | *21060125140129* | GitHub Repository Manager | Bertanggung jawab dalam pengelolaan repositori GitHub, pengorganisasian struktur proyek, dokumentasi, serta integrasi seluruh komponen proyek ke dalam repositori. |
 
 ---
 
